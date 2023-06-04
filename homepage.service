@@ -1,0 +1,8 @@
+[Unit]
+Description=Simple service to host Firefox startpage
+
+[Service]
+ExecStart=/usr/local/bin/homepage
+
+[Install]
+WantedBy=multi-user.target
