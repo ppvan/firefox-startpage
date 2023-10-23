@@ -35,9 +35,9 @@ const CONFIG = {
         },
         {
             title: "Giải trí", links: [
-                { name: "Anime", link: "https://animehay.live/" },
+                { name: "Anime", link: "https://animehay.city/" },
                 { name: "Hako", link: "https://ln.hako.vn/" },
-                { name: "Emptyness", link: "#" },
+                { name: "Quản lý đạo tạo", link: "https://daotaodaihoc.uet.vnu.edu.vn/qldt/" },
                 { name: "Emptyness", link: "#" },
             ]
         },
