@@ -2,6 +2,12 @@
 
 This is simple startpage made by me, inspired by bento startpage :D.
 
+## What's in this fork ?
+
+I use golang embeded feature to create a single binary.
+
+Added a small service and some command to deploy with systemd.
+
 ## What in this startpage ?
 
 Features ?

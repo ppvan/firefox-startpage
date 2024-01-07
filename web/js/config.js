@@ -3,7 +3,7 @@ const CONFIG = {
 
     // link of bottom menus (dynamic links)
     bottomLinks: [
-        { name: "Keeps", link: "https://keep.google.com" },
+        { name: "Notion", link: "https://www.notion.so" },
         { name: "Calendar", link: "https://calendar.google.com" },
     ],
 
@@ -37,7 +37,7 @@ const CONFIG = {
             title: "Giải trí", links: [
                 { name: "Anime", link: "https://animehay.city/" },
                 { name: "Hako", link: "https://ln.hako.vn/" },
-                { name: "Quản lý đạo tạo", link: "https://daotaodaihoc.uet.vnu.edu.vn/qldt/" },
+                { name: "Quản lý đào tạo", link: "https://daotaodaihoc.uet.vnu.edu.vn/qldt/" },
                 { name: "Emptyness", link: "#" },
             ]
         },
