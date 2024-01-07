@@ -25,7 +25,7 @@ func main() {
 		Handler: routes(),
 	}
 
-	err := server.ListenAndServe()
+	err := server.ListenAndServeTLS("./server.crt", "./server.key")
 
 	logger.Fatal(err)
 }
