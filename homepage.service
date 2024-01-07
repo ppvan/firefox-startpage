@@ -2,6 +2,7 @@
 Description=Simple service to host Firefox startpage
 
 [Service]
+WorkingDirectory=/usr/local/bin
 ExecStart=/usr/local/bin/homepage
 
 [Install]

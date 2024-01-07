@@ -19,7 +19,7 @@ gorun:
 	go run ./web
 
 install: clean build
-	cp bin/* $(INSTALLATION_PATH)/
+	cp bin/$(BINARY_NAME) bin/server.key bin/server.crt $(INSTALLATION_PATH)/
 
 service:
 	cp homepage.service /etc/systemd/system/homepage.service
